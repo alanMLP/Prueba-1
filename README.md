@@ -1,6 +1,18 @@
 # Prueba-1
-prueba cosas 
+
+prueba cosas
 
 
-this is a repositori from github 
+
+this is a repositori from GitHub
+
+
+
+
+
+Que onda loco
+
+quelokesto
+
+
 
